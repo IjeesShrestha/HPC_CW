@@ -1,0 +1,20 @@
+#2179    AV78 $6$KB$5B3KGhhav2/OsufUGxdicHWDBJM7ojVt0DvSVVwcpHL2OiiiBnq.b6hHZ/uYsi9PETZ6XDOW9/xOOrcbIXcfE/
+33800 solutions explored
+33800 solutions explored
+#14988   FT87 $6$KB$1vCJQRsKAizZvuTjEqLE./zeAqZ7AdqzTdx5Tob.bQDRGlXOEVkNhuqMorBSvCp4fP0eoNm2wULs3DRABbrLQ/
+33800 solutions explored
+33800 solutions explored
+#22512   IR11 $6$KB$F1y/Jfx/DeNeEL7YbiYjdZoJsNCQ.6RYAe4U3ucZPHNGfSjaFd1.f9fLOkbQ6mq/IhbuFOuPs74HgnfZBMhjV/
+33800 solutions explored
+33800 solutions explored
+#13220   SC19 $6$KB$3DdCMYkSjEZX4kRXiSK2ZW9XksbV7j162Eg6xOlzC3C7qxRIAetCB6Sm7m4soWwVc7hmnYXDNtDoxlfD.2LPa0
+33800 solutions explored
+33800 solutions explored
+Time elapsed was 252255941832ns or 252.255941832s
+
+
+AVA78
+FTT87
+IRR11
+SCC19
+
